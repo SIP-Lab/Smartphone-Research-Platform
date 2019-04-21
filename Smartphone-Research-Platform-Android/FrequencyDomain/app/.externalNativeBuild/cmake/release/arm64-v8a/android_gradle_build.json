@@ -1,0 +1,54 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Android/FrequencyDomain/app/src/main/jni/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/Users/abhisheksehgal/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Android/FrequencyDomain/app/.externalNativeBuild/cmake/release/arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"SuperpoweredExample-Release-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "SuperpoweredExample",
+			"buildCommand" : "/Users/abhisheksehgal/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Android/FrequencyDomain/app/.externalNativeBuild/cmake/release/arm64-v8a --target SuperpoweredExample",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target aarch64-none-linux-android -gcc-toolchain /Users/abhisheksehgal/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/abhisheksehgal/Library/Android/sdk/ndk-bundle/platforms/android-21/arch-arm64  -DSuperpoweredExample_EXPORTS -I/Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Android/FrequencyDomain/app/src/main/jni/src/main/jni -I/Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Superpowered -isystem /Users/abhisheksehgal/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/abhisheksehgal/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem /Users/abhisheksehgal/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -fsigned-char -I/Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Superpowered -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Android/FrequencyDomain/app/src/main/jni/FrequencyDomain.cpp",
+					"workingDirectory" : "/Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Android/FrequencyDomain/app/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  -target aarch64-none-linux-android -gcc-toolchain /Users/abhisheksehgal/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/abhisheksehgal/Library/Android/sdk/ndk-bundle/platforms/android-21/arch-arm64 -DSuperpoweredExample_EXPORTS -I/Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Android/FrequencyDomain/app/src/main/jni/src/main/jni -I/Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Superpowered  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -O3 -fsigned-char -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "/Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Android/FrequencyDomain/app/src/main/jni/FIR.c",
+					"workingDirectory" : "/Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Android/FrequencyDomain/app/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  -target aarch64-none-linux-android -gcc-toolchain /Users/abhisheksehgal/Library/Android/sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/abhisheksehgal/Library/Android/sdk/ndk-bundle/platforms/android-21/arch-arm64  -DSuperpoweredExample_EXPORTS -I/Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Android/FrequencyDomain/app/src/main/jni/src/main/jni -I/Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Superpowered -isystem /Users/abhisheksehgal/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/abhisheksehgal/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem /Users/abhisheksehgal/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -fsigned-char -I/Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Superpowered -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Superpowered/AndroidIO/SuperpoweredAndroidAudioIO.cpp",
+					"workingDirectory" : "/Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Android/FrequencyDomain/app/.externalNativeBuild/cmake/release/arm64-v8a"
+				}
+			],
+			"output" : "/Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Android/FrequencyDomain/app/build/intermediates/cmake/release/obj/arm64-v8a/libSuperpoweredExample.so",
+			"toolchain" : "6121829123468159509"
+		}
+	},
+	"toolchains" : 
+	{
+		"6121829123468159509" : 
+		{
+			"cCompilerExecutable" : "/Users/abhisheksehgal/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/abhisheksehgal/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+Executable : /Users/abhisheksehgal/Library/Android/sdk/cmake/3.6.3155560/bin/cmake
+arguments : 
+-H/Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Android/FrequencyDomain/app/src/main/jni
+-B/Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Android/FrequencyDomain/app/.externalNativeBuild/cmake/release/arm64-v8a
+-GAndroid Gradle - Ninja
+-DANDROID_ABI=arm64-v8a
+-DANDROID_NDK=/Users/abhisheksehgal/Library/Android/sdk/ndk-bundle
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Android/FrequencyDomain/app/build/intermediates/cmake/release/obj/arm64-v8a
+-DCMAKE_BUILD_TYPE=Release
+-DCMAKE_MAKE_PROGRAM=/Users/abhisheksehgal/Library/Android/sdk/cmake/3.6.3155560/bin/ninja
+-DCMAKE_TOOLCHAIN_FILE=/Users/abhisheksehgal/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake
+-DANDROID_NATIVE_API_LEVEL=21
+-DCMAKE_C_FLAGS=-O3 -fsigned-char
+-DCMAKE_CXX_FLAGS=-fsigned-char -I/Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Superpowered
+-DANDROID_PLATFORM=android-16
+-DANDROID_TOOLCHAIN=clang
+-DANDROID_ARM_NEON=TRUE
+-DANDROID_STL=gnustl_static
+-DPATH_TO_SUPERPOWERED:STRING=/Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Superpowered
+jvmArgs : 
+

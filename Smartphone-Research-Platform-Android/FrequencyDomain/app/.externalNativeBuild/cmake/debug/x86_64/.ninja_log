@@ -1,0 +1,5 @@
+# ninja log v5
+0	26	0	CMakeFiles/SuperpoweredExample.dir/FIR.c.o	aefe1fad6fafa0e0
+0	57	0	CMakeFiles/SuperpoweredExample.dir/FrequencyDomain.cpp.o	246857c1af575cb5
+1	69	0	CMakeFiles/SuperpoweredExample.dir/Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Superpowered/AndroidIO/SuperpoweredAndroidAudioIO.cpp.o	d662750c64cd718a
+69	149	0	/Users/abhisheksehgal/Desktop/Developer/SuperpoweredSDK/Android/FrequencyDomain/app/build/intermediates/cmake/debug/obj/x86_64/libSuperpoweredExample.so	9f7e35407e2ff49a
