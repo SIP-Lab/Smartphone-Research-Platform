@@ -27,3 +27,13 @@ The repository covers the following aspects:
 [Nasser Kehtarnavaz](http://www.utdallas.edu/~kehtar/) and Abhishek Sehgal<br>
 [Signal and Image Processing Lab](http://www.utdallas.edu/~kehtar/SIP/index.htm)<br>
 The University of Texas at Dallas<br>
+
+## License and Citation
+The codes are licensed under MIT license.
+
+For any utilization of the code content of this repository, the following paper needs to be cited by the user:
+
+- N. Kehtarnavaz, F. Saki, and A. Duran, Anywhere-Anytime Signals and Systems Laboratory: From MATLAB
+to Smartphones, 2nd Edition, Morgan and Claypool Publishers, 2018.
+- N. Kehtarnavaz, A. Sehgal, and S. Parris, Smartphone-Based Real-Time Digital Signal Processing, 2nd Edition
+Morgan and Claypool Publishers, 2018.
