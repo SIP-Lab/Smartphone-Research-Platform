@@ -33,7 +33,7 @@ The codes are licensed under MIT license.
 
 For any utilization of the code content of this repository, the following paper needs to be cited by the user:
 
-- N. Kehtarnavaz, F. Saki, and A. Duran, Anywhere-Anytime Signals and Systems Laboratory: From MATLAB
-to Smartphones, 2nd Edition, Morgan and Claypool Publishers, 2018.
-- N. Kehtarnavaz, A. Sehgal, and S. Parris, Smartphone-Based Real-Time Digital Signal Processing, 2nd Edition
+- N. Kehtarnavaz, F. Saki, and A. Duran, [Anywhere-Anytime Signals and Systems Laboratory: From MATLAB
+to Smartphones](https://ieeexplore.ieee.org/document/8527721), 2nd Edition, Morgan and Claypool Publishers, 2018.
+- N. Kehtarnavaz, A. Sehgal, and S. Parris, [Smartphone-Based Real-Time Digital Signal Processing](https://www.morganclaypool.com/doi/abs/10.2200/S00885ED2V01Y201811SPR016), 2nd Edition
 Morgan and Claypool Publishers, 2018.
