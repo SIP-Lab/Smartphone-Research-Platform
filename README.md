@@ -22,12 +22,6 @@ The repository addresses the following:
 - For Android implementation, [Superpowered SDK](https://superpowered.com) is used to set up the audio I/O, which can be found at: [LINK](https://github.com/superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform)
 - Conversion of MATLAB script to C is done by the MATLAB Coder utility of MATLAB 
 
-## Credits
-
-[Nasser Kehtarnavaz](http://www.utdallas.edu/~kehtar/) and Abhishek Sehgal<br>
-[Signal and Image Processing Lab](http://www.utdallas.edu/~kehtar/SIP/index.htm)<br>
-University of Texas at Dallas<br>
-
 ## License and Citation
 The codes are licensed under MIT license.
 
